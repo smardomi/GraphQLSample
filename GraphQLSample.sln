@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{E7E358BA-9B6C-4E18-A5C7-99677701DD33}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GraphQLSample.Web", "src\GraphQLSample.Web\GraphQLSample.Web.csproj", "{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{54A7ECE6-E1E4-4EE2-A52F-9BA586B34E3A} = {E7E358BA-9B6C-4E18-A5C7-99677701DD33}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9F26F3FC-DCF0-46B9-9D7D-DDDAC7C4DA7C}
+	EndGlobalSection
+EndGlobal
